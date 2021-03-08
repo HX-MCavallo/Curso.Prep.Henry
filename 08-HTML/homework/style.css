@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html{
+    background-image: url("https://previews.123rf.com/images/wavebreakmediamicro/wavebreakmediamicro1507/wavebreakmediamicro150715330/44829787-dise%C3%B1o-web-sobre-fondo-negro.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: rgb(228, 231, 44);
+    text-align: center;
+}
+h1{
+    color: goldenrod;
+}
+img{
+    width: 400px;
+
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: transparent;
+    padding: 50px;
+    border: solid;
+    display: inline-block;
+    border-color: black;
+}
+#spanId{
+    font-size: 18px;
+    margin:  50px;
+}
+/* fuera de la tarea*/
+a{
+    color: gold;
+}
+.logoDiv{
+    background-color: black;
+}
+li{
+    list-style:none;
+}
